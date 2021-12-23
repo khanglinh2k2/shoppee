@@ -1,0 +1,18 @@
+#main{
+
+}
+.header{
+    background-color: rgb(236, 107, 60);
+    height: 16rem;
+
+}
+.header__nav{
+    justify-content: space-between;
+}
+.nav__menu{
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+.nav__menu1{
+
+}
